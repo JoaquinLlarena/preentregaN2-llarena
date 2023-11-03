@@ -2,6 +2,10 @@ import React from 'react'
 
 export default function Nosotros() {
   return (
-    <div>Coonoce mas de nosotros</div>
+    <div>
+      
+      <h1>Coonoce mas de nosotros</h1>
+      
+      </div>
   )
 }
